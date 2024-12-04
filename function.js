@@ -124,7 +124,7 @@ const login = () => {
         .then((result) => {
             if (result.keys) {
                 sessionStorage.setItem("keys", JSON.stringify(result.keys));
-                window.location.href = "/";
+                window.location.href = "https://nihalawasthi.github.io/Phablet/";
             }
 
         })
@@ -154,7 +154,7 @@ const signup = () => {
     fetch(`${serverURL}/api/signup/`, requestOptions)
         .then((response) => response.json())
         .then((result) => {
-            window.location.href = "#login";
+            window.location.href = "https://nihalawasthi.github.io/Phablet/login#login";
         })
         .catch((error) => console.error(error));
 };    
