@@ -49,44 +49,19 @@ You can include the following in the **Documentation** section:
 ---
 -->
 
-
 ## Visuals  
 
-## Visuals  
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-
-<img src="https://github.com/user-attachments/assets/fc88a6d5-ea34-456b-8b86-46289b74717c" 
-alt="Screenshot 1" 
-style="width: 45%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s; cursor: pointer;" 
-onmouseover="this.style.transform='scale(1.2)'" 
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://github.com/user-attachments/assets/6b53da48-ed08-4fc2-b819-3f17fd1d5f29" 
-alt="Screenshot 2" 
-style="width: 45%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s; cursor: pointer;" 
-onmouseover="this.style.transform='scale(1.2)'" 
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://github.com/user-attachments/assets/fc729c0f-1cb8-4666-9d4c-bebca2d334cb" 
-alt="Screenshot 3" 
-style="width: 45%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s; cursor: pointer;" 
-onmouseover="this.style.transform='scale(1.2)'" 
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://github.com/user-attachments/assets/7cd42384-9bfd-4377-bb80-1524f076e64d" 
-alt="Screenshot 4" 
-style="width: 45%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s; cursor: pointer;" 
-onmouseover="this.style.transform='scale(1.2)'" 
-onmouseout="this.style.transform='scale(1)'"/>
-
-<img src="https://github.com/user-attachments/assets/1f167fea-ae39-40a6-9f7f-f83a3adf6709" 
-alt="Screenshot 5" 
-style="width: 45%; border: 1px solid #ccc; border-radius: 5px; transition: transform 0.3s; cursor: pointer;" 
-onmouseover="this.style.transform='scale(1.2)'" 
-onmouseout="this.style.transform='scale(1)'"/>
+<img src="https://github.com/user-attachments/assets/fc88a6d5-ea34-456b-8b86-46289b74717c" alt="Screenshot 1" style="width: 45%; border: 1px solid #ccc; border-radius: 5px;"/>
+<img src="https://github.com/user-attachments/assets/6b53da48-ed08-4fc2-b819-3f17fd1d5f29" alt="Screenshot 2" style="width: 45%; border: 1px solid #ccc; border-radius: 5px;"/>
+<img src="https://github.com/user-attachments/assets/fc729c0f-1cb8-4666-9d4c-bebca2d334cb" alt="Screenshot 3" style="width: 45%; border: 1px solid #ccc; border-radius: 5px;"/>
+<img src="https://github.com/user-attachments/assets/7cd42384-9bfd-4377-bb80-1524f076e64d" alt="Screenshot 4" style="width: 45%; border: 1px solid #ccc; border-radius: 5px;"/>
+<img src="https://github.com/user-attachments/assets/1f167fea-ae39-40a6-9f7f-f83a3adf6709" alt="Screenshot 5" style="width: 45%; border: 1px solid #ccc; border-radius: 5px;"/>
 
 </div>
+
+
 
 ---
 
