@@ -12,7 +12,6 @@ Designed for developers, researchers, and organizations seeking reliable cryptog
 ---
 
 ## Table of Contents  
-- [Project Description](#project-description)  
 - [Technologies Used](#technologies-used)  
 - [Usage Instructions](#usage-instructions)  
 - [Documentation](#documentation)  
@@ -32,13 +31,14 @@ Phablet is built with the following technologies:
 
 ## Usage Instructions  
 To access Phablet via the web app:  
-1. Navigate to the [Phablet Web App](#) (Replace `#` with the URL if available).  
-2. Register for an account to securely store your keys.  
-3. Use the M1 model for hashing text and the M2 model for encryption/decryption tasks.  
+1. Navigate to the [Phablet Web App](https://nihalawasthi.github.io/Phablet/).  
+2. Register for an account to get your keys.  
+3. Use the Model 1 for hashing text or the Model 2 for encryption/decryption tasks.  
 4. Documentation and examples are provided within the app for ease of use.  
 
 ---
 
+<!--
 ## Documentation  
 You can include the following in the **Documentation** section:  
 1. **Overview**: Explain the purpose and key features of M1 and M2.  
@@ -48,6 +48,7 @@ You can include the following in the **Documentation** section:
 5. **FAQ**: Address common questions users might have.  
 
 ---
+-->
 
 ## Visuals  
 Include screenshots or videos of:  
@@ -58,14 +59,10 @@ Include screenshots or videos of:
 ---
 
 ## License Information  
-**Phablet** is a proprietary project and is solely owned by [Your Name/Your Organization].  
-Unauthorized use, distribution, or modification is strictly prohibited. For inquiries about licensing, please contact [your email address].  
+**Phablet** is a proprietary project and is solely owned by [Nihal Awasthi].  
+Unauthorized use, distribution, or modification is strictly prohibited. For inquiries about licensing, please contact [nihalawasthi498@gmail.com].  
 
 ---
 
 ## Conclusion  
 Phablet redefines cryptographic standards by combining security, efficiency, and usability. Whether you're a developer integrating cryptography or a researcher exploring advanced algorithms, Phablet is your go-to solution.  
-
----
-
-Let me know if you'd like to tweak or expand any section, or need help creating visuals or documentation!
