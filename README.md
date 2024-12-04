@@ -52,7 +52,7 @@ You can include the following in the **Documentation** section:
 
 ## Visuals  
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: '10px';">
 
 <img src="https://github.com/user-attachments/assets/fc88a6d5-ea34-456b-8b86-46289b74717c" alt="Screenshot 1" style="width: 45%; border: 1px solid #ccc; border-radius: 5px;"/>
 <img src="https://github.com/user-attachments/assets/6b53da48-ed08-4fc2-b819-3f17fd1d5f29" alt="Screenshot 2" style="width: 45%; border: 1px solid #ccc; border-radius: 5px;"/>
