@@ -1,11 +1,9 @@
-Here's a structured template for your **README.md** for the **Phablet** project repository:
+<img width=100% src="https://github.com/user-attachments/assets/3272e7c8-e3d7-48b0-acef-1a5cee88b617">
+<p align="center">A cutting-edge cryptographic framework offering robust encryption and hashing solutions. </p>
+<br>
 
 ---
-
-# Phablet: Encryption and Hashing Simplified  
-
-## Project Description  
-**Phablet** is a cutting-edge cryptographic framework offering robust encryption and hashing solutions. It features two core models:  
+It features two core models:  
 - **M1:** A secure and efficient hashing mechanism.  
 - **M2:** A versatile encryption/decryption module tailored for advanced security needs.  
 
