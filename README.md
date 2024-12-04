@@ -3,8 +3,8 @@
 
 ---
 It features two core models:  
-- **M1:** A secure and efficient hashing mechanism.  
-- **M2:** A versatile encryption/decryption module tailored for advanced security needs.  
+- **Model 1:** A secure and efficient hashing mechanism.  
+- **Model 2:** A versatile encryption/decryption module tailored for advanced security needs.  
 
 Designed for developers, researchers, and organizations seeking reliable cryptographic solutions, Phablet simplifies complex encryption processes while ensuring top-notch security.  
 
