@@ -1,4 +1,4 @@
-# Phablet
+# Phablet - A Hashing and Encrypttion Algorithm
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nihalawasthi.Phablet">
 <img width=100% src="https://github.com/user-attachments/assets/3272e7c8-e3d7-48b0-acef-1a5cee88b617">
 <p align="center">A cutting-edge cryptographic framework offering robust encryption and hashing solutions. </p>
